@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User got many data from request</description>
+   <name>Get - Verify Id Name Username Email from All JSON</name>
+   <tag></tag>
+   <comment>result.toString()</comment>
+   <testCaseGuid>15b55ae9-64fd-4c03-a2de-381b01f09b89</testCaseGuid>
+</TestCaseEntity>

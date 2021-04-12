@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User manual input data for request</description>
+   <name>Post - Verify Name Username Email is Match With Data When Request</name>
+   <tag></tag>
+   <comment>result.toString()</comment>
+   <testCaseGuid>0ac15fe3-56e8-4c2c-aba6-743cd9ead511</testCaseGuid>
+</TestCaseEntity>
